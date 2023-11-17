@@ -1,7 +1,7 @@
 body {
 font-family: 'Poiret One', sans-serif;
 overflow: hidden;
-background: conic-gradient(from .5turn at 50% 110%, white, orange)
+background: conic-gradient(from .5turn at top right, darkseagreen, darkslategray)
 }
 
 .container {
@@ -17,7 +17,7 @@ background: conic-gradient(from .5turn at 50% 110%, white, orange)
     width: fit-content;
     margin: auto;
     padding: 10px;
-    border-radius: 2px;
+    border-radius: 30px;
     color: #fff;
     background: rgba(0, 0, 0, 0.1);
 }
